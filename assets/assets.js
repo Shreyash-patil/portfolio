@@ -1,5 +1,5 @@
-import user_image from "./shreyash-patil-pic-long.png";
-import profile_img from "./shreyash-patil-pic.png";
+import user_image from "./shreyash-side-profile.png";
+import profile_img from "./shreyash-front.png";
 import code_icon from "./code-icon.png";
 import code_icon_dark from "./code-icon-dark.png";
 import edu_icon_light from "./edu-icon-light.png";
